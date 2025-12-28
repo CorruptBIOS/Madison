@@ -34,7 +34,7 @@ Failure to comply may result in consequences from the Internal Affairs Team.
 ### Use of Power
 
 * As staff you are trusted with powers in-game and on Discord. Use these powers correctly when carrying out your duties.
-* Do not use commands on staff or others unless authorised. The Internal Affairs Team logs all commands run in Discord and in-game; abuse will be detected and punished.
+* Do not use commands on staff or others unless authorized. The Internal Affairs Team logs all commands run in Discord and in-game; abuse will be detected and punished.
 {% endstep %}
 
 {% step %}
@@ -42,7 +42,7 @@ Failure to comply may result in consequences from the Internal Affairs Team.
 
 * When On-Duty in-game, follow required procedures:
   * Be in RTO listening for priorities.
-  * If you go AFK, it must be no more than 10 minutes and you must notify peers in staff chat; otherwise leave the server and end your shift.
+  * If you go AFK, it must be no more than 10 minutes, and you must notify peers in staff chat; otherwise leave the server and end your shift.
 * All mod calls should be answered within 40 seconds of appearing on your screen. The call must be taken regardless of roleplay duty.
 * Change your in-game roleplay name to “Madison State Staff” and have the appropriate Staff Callsign in your Discord nickname (refer to staff info).
 * You must be clocked in at all times while in-game. Staff may not be in-game but not clocked in to avoid mod calls.
@@ -54,7 +54,7 @@ Failure to comply may result in consequences from the Internal Affairs Team.
 {% step %}
 ### On-Duty Limit
 
-* To prevent staffing overload, a maximum of 6 active duty staff may be in-game at once (excludes IA+).
+* To prevent staffing overload, a maximum of 6 active-duty staff may be in-game at once (excludes IA+).
 * If more than 6 people are on active staff duty, those who have already completed their requirements will be asked to roleplay. If no-one has completed requirements, those who clocked on earliest will be asked to end their shift.
 * There should be a minimum of 1 Staff Member on duty at all times. It is better to SSD the server than leave it unmoderated.
 {% endstep %}
@@ -64,18 +64,19 @@ Failure to comply may result in consequences from the Internal Affairs Team.
 
 * On-Duty staff must adhere to the Uniform Policy and maintain professionalism.
 * You must wear the appropriate uniform at all times.
-* Prohibited: unnatural hair colours, LEO-like accessories, large accessories that cover key uniform information or protrude excessively.
+* Prohibited: unnatural hair colors, LEO-like accessories, large accessories that cover key uniform information or protrude excessively.
 * If unsure about your avatar, have it checked by a member of the Internal Affairs Team before using it On-Duty.
 {% endstep %}
 
 {% step %}
 ### Driving Policy
 
-* When On-Duty you should patrol the map. You may monitor a scene, but not stay in one spot for more than 10 minutes (minute cheating).
+* When On-Duty you should patrol the map. You may monitor a scene but not stay in one spot for more than 10 minutes as it would count as minute cheating.
 * When patrolling in a staff vehicle, follow traffic laws at all times. Running red lights, speeding, driving in opposite lanes, driving over curbs/sidewalks, etc., will result in consequences.
 * Driving should be seamless and unnoticed; ensure staff driving does not interfere with roleplayers (allow overtakes, pull over in congestion, etc.).
 * Park vehicles appropriately: parking bays, side of the road with wheel behind the white line (not blocking over half the pavement), or on grass in a straight parallel line to the road.
 * Patrolling on foot is not permitted.
+* Vehicles ELS and or sirens that is equipped on your staff vehicle is prohibited to be used.
 {% endstep %}
 
 {% step %}
@@ -101,6 +102,7 @@ Failure to comply may result in consequences from the Internal Affairs Team.
 * While On-Duty, use downtime wisely. When there are no calls or reminders, review the member list and observe individuals for around 30 seconds each to watch for rule breakers.
 * Proactive moderation helps catch rule breakers and remove problem players before issues escalate.
 * Failure to proactively moderate will be classed as minute cheating and may lead to removal from the staff team.
+* If you are on a roleplay scene and are not directly involved, you still need to take mod calls
 {% endstep %}
 
 {% step %}

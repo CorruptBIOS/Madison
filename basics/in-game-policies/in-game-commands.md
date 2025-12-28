@@ -8,14 +8,18 @@ Below are the commands you have access to whilst moderating in-game. Each comman
 
 ## Core Commands
 
-* `:to [PLAYER]` — 👤 Moderator+
-* `:bring [PLAYER]` — 👤 Moderator+
+*   `:to [PLAYER]` — 👤 Moderator+
+
+    <sup>This command may be used</sup>
+*   `:bring [PLAYER]` — 👤 Moderator+
+
+    <sup>This command</sup>
 * `:tp [PLAYER] [PLAYER]` — 👤 Moderator+
 * `:m [MESSAGE]` — 👤 Moderator+
 * `:h [MESSAGE]` — 👤 Moderator+
 * `:view [PLAYER]` — 👤 Moderator+
 * `:unmod [PLAYER]` — 👤 Internal Affairs+
-* `:weather [Clear, Fog, Rain, Thunderstorm]` — 👤 Internal Affairs+
+* `:weather [Clear, Fog, Rain, Thunderstorm, Snow]` — 👤 Internal Affairs+
 
 ## Administrative / Enforcement
 

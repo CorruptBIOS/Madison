@@ -4,13 +4,13 @@ icon: gavel
 
 # In-Game Moderation
 
-This page describes three common forms of punishment: Warning, Kick, and Ban. It explains behaviours that may result in each punishment, and what they mean in different contexts. From minor offenses to major violations, this provides an overview of punishment levels and the reasons behind them.
+This page describes three common forms of punishment: Warning, Kick, and Ban. It explains behaviors that may result in each punishment, and what they mean in different contexts. From minor offenses to major violations, this provides an overview of punishment levels and the reasons behind them.
 
 {% hint style="info" %}
 Every punishment must be logged. Provide full detail in your logs — do not use shorthand like "FRP" without explaining what happened (for example: "FRP - Swimming underwater for over 4 minutes."). Detailed logs help track why people are moderated and aid Internal Affairs when reviewing staff reports.
 {% endhint %}
 
-All moderations are handled using Melonly.xyz.
+All moderations are handled using [Melonly](https://melonly.xyz).
 
 {% stepper %}
 {% step %}
@@ -25,7 +25,17 @@ All moderations are handled using Melonly.xyz.
 {% endstep %}
 {% endstepper %}
 
-If you accidentally enter the incorrect reason, punishment, or moderate the wrong user, contact a member of the Internal Affairs Team+ and explain what is wrong. Provide the punishment ID if available.
+If you accidentally enter the incorrect reason, you may edit the moderation log within the Melonly panel, however if you accidentally used the wrong punishment type, or moderated the wrong user, you would need to contact a member of the Internal Affairs Team+ and explain what is wrong. Provide the punishment ID if available.
+
+
+
+## Verbal Warnings
+
+A verbal warning may be issued onto members if you feel that they did not mean to break a rule or completely understand their mistake and that they will not do it again.&#x20;
+
+{% hint style="warning" %}
+Verbal warnings are issued based on discretion; however verbal warnings are not allowed to be issued to players who violate a rule which warrants a ban.
+{% endhint %}
 
 ## Warnings
 
@@ -59,9 +69,12 @@ If you accidentally enter the incorrect reason, punishment, or moderate the wron
 
 ## Moderation points and counting
 
-* All warnings: 1 point each.
-* All kicks: 2 points each.
-* Ban: 10 points.
+Madison State Roleplay utilizes a 10-point system for all players, once a player reaches ten moderation points, they are to be banned. Down below are how many points a member is issued when they are moderated:
+
+* Verbal Warnings: 0 points
+* Warnings: 1 point each
+* Kicks: 2 points each
+* Ban: 10 points
 
 If a person has been banned before, only count moderation points gained after the most recent ban. If a person's last moderation was a ban and there have been no moderations after that (and they are in-game), it means the ban was successfully appealed and they now have 0 moderation points.
 

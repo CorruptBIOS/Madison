@@ -8,7 +8,7 @@ Whilst representing Madison State Roleplay, we expect you to uphold and follow a
 
 {% stepper %}
 {% step %}
-### Activities Outside Of Madison
+### Activities Outside of Madison
 
 * Whilst you are a member of our staff team, you are expected to show respect anywhere you go.
 * We do not moderate activities outside of MSRP unless we find it is having a direct impact on us.
@@ -22,7 +22,7 @@ Whilst representing Madison State Roleplay, we expect you to uphold and follow a
 * You may not take part in mass blocks to attempt to isolate and/or harass members of the community.
 
 {% hint style="info" %}
-If you feel you need to discuss any issues with another member of the Staff team, the IA team are here to support you.
+If you feel you need to discuss any issues or concerns with another member of the Staff team, the IA team are here to help you.
 {% endhint %}
 {% endstep %}
 
@@ -51,7 +51,7 @@ If you feel you need to discuss any issues with another member of the Staff team
 
 We understand that sometimes people may not be able to meet their requirements, therefore they can submit an LOA. To do this open the moderate panel and utilize the LOA Manage function.
 
-Before submitting one please understand the following:
+Before submitting one, please understand the following:
 
 * LOA’s must end on a Sunday.
 * LOA's must be requested on Sundays, Mondays, Tuesdays or Wednesdays.
@@ -62,7 +62,7 @@ Before submitting one please understand the following:
 {% step %}
 ### Leaking
 
-* Leaking is the act of sharing information to users that don’t have access to it. This includes telling them verbally about things within the Staff team, sending screenshots, videos, GIFs, etc., of staff-only areas and staff assets to people who are not part of the Staff Team currently. This includes sharing it to former staff members — unless they can see it themselves you’re not permitted to show it to them or tell them about it.
+* Leaking is the act of sharing information to users that don’t have access to it. This includes telling them verbally about things within the Staff team, sending screenshots, videos, GIFs, etc., of staff-only areas and staff assets to people who are not part of the Staff Team currently. This includes sharing it to former staff members — unless they can see it themselves, you’re not permitted to show it to them or tell them about it.
 * Anyone that is caught leaking will be instantly terminated from the staff team.
 * If you think that someone is leaking or if you don’t know whether telling someone something is leaking, ask a Member of the Internal Affairs Team before doing so.
 * All private IA interactions via officers & DMs are confidential to you and the IA team. You may not discuss any of this with anyone that is below the rank of IA or with any members. This includes all staff punishments — they are confidential.
@@ -87,7 +87,7 @@ Before submitting one please understand the following:
 ### Reporting Fellow Staff
 
 * When you’re reporting a member of the Staff team you must open an Internal Affairs ticket.
-  * You must not confront the staff member that you’re reporting or try to lecture them; this will cause drama and you may also receive consequences.
+  * You must not confront the staff member that you’re reporting or try to lecture them; this will cause drama, and you may also receive consequences.
 * You must not notify the staff member or any other staff member that is not a part of the incident that you’re reporting them, to ensure no drama is caused.
 {% endstep %}
 
@@ -102,6 +102,6 @@ Before submitting one please understand the following:
 {% step %}
 ### Suggestions
 
-* Staff members are expected to use the Staff Suggestions channel instead of the regular Suggestions channel. The regular Suggestions channel is for community members and non-staff only.
+* Staff members are expected to use the Staff Suggestions channel instead of the regular Suggestions channel. The regular Suggestions channel is for community members and is not to be used by staff.
 {% endstep %}
 {% endstepper %}
