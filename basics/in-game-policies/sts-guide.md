@@ -77,7 +77,7 @@ Then announce:
 ### Formation, checks and tasks
 
 * Now get in formation as seen below: (to be done)
-* Visit [here - to be done](https://sites.google.com/view/madison-staff-hub/home) to download the file, then do m!play (attach file).
+* Visit [here - to be done](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FFEAkFpUPjEnShMPYf91T%2Fuploads%2F2dNJvKc2Rky1HPFjKvv4%2FSTS%20audio.m4a?alt=media\&token=38329b26-daac-4c68-9517-459e16d8e4c4) to download the file, then do m!play (attach file).
 * After the Host has run these commands and the bot has begun to speak, start your assigned task:
   * VC checks: kick anyone who isn't in VC.
   * Avatar checks: note down the username of any player with a dodgy avatar so you can teleport to them the moment the bot stops speaking finishes.
@@ -103,9 +103,3 @@ Enforcement guidance:
 
 * You must stand in the position that corresponds with your role.
 * If you see a staff member not following any of these rules, gather proof and make a Staff Report.
-
-Link referenced in the guide:
-
-* https://sites.google.com/view/madison-staff-hub/home
-
-(End of page)
