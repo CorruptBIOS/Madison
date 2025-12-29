@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: house
 layout:
   width: default
@@ -13,10 +14,8 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
+    visible: false
+metaLinks: {}
 ---
 
 # Home

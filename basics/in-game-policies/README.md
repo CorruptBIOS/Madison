@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: sidebar
 layout:
   width: default
