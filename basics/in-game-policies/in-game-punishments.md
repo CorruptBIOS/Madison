@@ -119,10 +119,10 @@ Below are a range of common moderation issues and their respective punishments. 
 *   LTAP
 
     <sup>Stands for Leaving to Avoid Punishment which occurs when someone leaves to avoid moderation.</sup>
-*   Mass VDM
+*   Mass VDM (3 or more players)
 
     <sup>Three consecutive counts of Vehicle Deathmatch towards another player.</sup>
-*   Mass RDM (More than 3 player)
+*   Mass RDM (3 or more players)
 
     <sup>Three consecutive counts of Random Deathmatch towards another player.</sup>
 *   Banned Roleplay
