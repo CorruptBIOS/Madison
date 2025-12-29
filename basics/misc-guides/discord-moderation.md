@@ -109,7 +109,7 @@ Example:
 {% endstep %}
 
 {% step %}
-### When to temp ban
+### When to temporary ban
 
 Temp bans are for removing someone from the community for a period of time. Most temp bans are 7 days long; you may choose a range of 4 to 10 days. Any temp ban longer than 10 days or shorter than 4 days may result in consequences.
 
@@ -129,7 +129,7 @@ Example:
 {% endstep %}
 
 {% step %}
-### When to ban (permanent bans)
+### When to permanent ban
 
 When banning someone you're not to put "No Appeal" or "Not welcome here" in your reason; doing so will result in consequences. The bot has automation that may prevent appeals based on certain ban reasons.
 
@@ -170,4 +170,4 @@ Below is a list of commands that you're able to use as a Discord Moderator. Usin
 * !modlogs
 * !softban
 
-If you have any questions be sure to ask an Internal Affairs member. Remember, modlogs are confidential and should not be shared except with a member that wishes to view their own modlogs.
+If you have any questions, be sure to ask an Internal Affairs member. Remember, modlogs are confidential and should not be shared except with a member that wishes to view their own modlogs.
