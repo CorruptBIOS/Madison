@@ -25,7 +25,6 @@ Before requesting permission to host an STS, check for the following:
 * Numerous Mod Calls
 * Many punishments being given
 * Not many people in the VC's
-* There hasn't been an STS in the past 4 hours (reminders are sent out)
 
 ## Getting Started
 
@@ -36,7 +35,7 @@ Once approval has been granted from an Internal Affairs member or above to condu
 ### Gather staff and assign Host
 
 * Get all On-Duty Staff into the On Duty Staff VC.
-* The highest rank online will take the role of Host. If there are numerous people of the same rank then decide amongst yourselves.
+* The highest rank online will take the role of Host. If there are numerous people of the same rank, then decide amongst yourselves.
 * The Host should designate:
   * Who will be doing VC & Avatar Check
   * Who is monitoring Crowd Control
