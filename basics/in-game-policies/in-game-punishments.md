@@ -8,56 +8,141 @@ Below are a range of common moderation issues and their respective punishments. 
 
 ## Warnings
 
-* Not Following Jurisdictions
-* Using Restricted Gear
-* Combat Logging
-* Cuff Rushing
-* Breaking NLR
-* Roleplay Without Perms
-* Breaking Safezones
-* Unrealistic Avatar
-* Unrealistic Driving
-* Not Using Team Uniforms
-* Disturbing Roleplays
-* Cop Baiting
-* Un-Official Departments
-* Low Quality Roleplay
-* LEO Impersonation
-* Breaking Priority
-* Animal Roleplay
-* Med/Tow Rushing
-* Failure to utilize roleplays VC's
+*   Not Following Jurisdictions
+
+    <sup>This means that an LEO unit goes out of their jurisdiction and refuses to go back their own jurisdiction.</sup>
+*   Using Restricted Gear
+
+    <sup>This means that a user was using gear from a team which is either restricted to ranked members of a certain department. This ranges from (Vehicle accessories, equipment, vehicles).</sup>
+*   Combat Logging
+
+    <sup>The act of someone leaving in the middle of a gun fight.</sup>
+*   Breaking NLR
+
+    <sup>The act of someone intentionally driving back to a scene and engaging with other players, and or still making communication towards another player that they knew prior to their death, or arrest.</sup>
+*   Roleplay Without Permission
+
+    <sup>The act of someone robbing the bank, or jewelry store. This also applies to kidnapping, and hostage scenes.</sup>
+*   Breaking Safezones
+
+    <sup>The act of someone committing a crime such as killing another player within an area where crime is not allowed. (ex. Civilian spawn)</sup>
+*   Unrealistic Avatar
+
+    <sub>The act of a player wearing unrealistic avatar characteristics this ranges from (skin tone, body parts, and player accessories).</sub>
+*   Unrealistic Driving
+
+    <sup>Driving eradically for no apparent reason, this goes for driving on the opposite side of the road, serving and overall being reckless for no reason. The only exception is when a player is in a pursuit.</sup>
+*   Not Using Team Uniforms
+
+    <sup>The act of not equipping any department issued uniforms, this also applies if someone is wearing the default PD, Sheriff, and FD uniforms.</sup>
+*   Disturbing Roleplays
+
+    <sup>Interacting an active scene without permission when not involved to begin with.</sup>
+*   Cop Baiting
+
+    <sup>The act of intentionally trying to get law enforcement's attention by blatantly breaking laws in front of them in an attempt to get into a chase with them.</sup>
+*   Un-Official Departments
+
+    <sup>This means players may not roleplay as any federal agencies, state agencies, and so on. This means nobody can roleplay as any entity which is not apart of Madison State Roleplay.</sup>
+*   Low Quality Roleplay
+
+    <sup>The act when a player engages in roleplays which are unrealistic such as: (Not roleplaying crashes, equipping a rifle without giving any indication that you have a rifle, etc.)</sup>
+*   LEO Impersonation
+
+    <sup>When someone pretends to be law enforcement. It is still impersonation if they are wearing law enforcement attire.</sup>
+*   Breaking Priority
+
+    <sup>This occurs when a player commits a crime during priority, this ranges from (evading police, robberies, shootings, etc.) The only exception is if the scene happened before the priority timer was issued or if the priority timer is put out for that specific scene.</sup>
+*   Animal Roleplay
+
+    <sup>The act of someone roleplaying as an animal such as a dog. If it is a costume, it must show skin within the costume such as either having either their hands showing, or face showing.</sup>
+*   Med/Tow Rushing
+
+    <sup>The act of either healing someone with a medical bag or towing someone's vehicle without roleplaying their actions.</sup>
+*   Failure to utilize roleplays VC's
+
+    <sub>Applies to law enforcement, fire department, and DOT. This means that players who are supposed to be in their RTO or radio VC are not present.</sub>
 
 ## Kicks
 
-* VDM
-* RDM
-* 2 Warnings in 1 SSU
-* Failing to join the Discord
-* Unable to access the Discord / Roleplay VC's (Log As A Note)
-* Disturbing STS
-* Refusal to join VC
-* Staff Evasion
-* Failing to utilise a microphone
-* Disregarding Past Moderation
-* Staff Impersonation
-* Interfering with a Mod Scene
-* Joining The Server During An SSD
+*   VDM
+
+    <sup>Stands for Random Death Match and is when someone intentionally rams into or drives into another player for no reason.</sup>
+*   RDM
+
+    <sup>Stands for Random Death Match and is when someone intentionally damages or kills another player for no reason.</sup>
+*   2 Warnings in 1 SSU
+
+    <sup>Where someone obtains two warnings within a single server startup.</sup>
+*   Failing to join the Discord
+
+    <sup>An act which someone refuses or does not join our Discord server in general.</sup>
+*   Unable to access the Discord / Roleplay VC's (Log as a Note)
+
+    <sup>This occurs if the user is banned from our Discord server.</sup>
+*   Disturbing STS
+
+    <sup>Where someone intentionally talks, uses Roblox VC, emotes, equips an item, or uses their phone in-game.</sup>
+*   Refusal to join VC
+
+    <sup>An act where someone refuses to join one of our Discord voice channels.</sup>
+*   Staff Evasion
+
+    <sup>An act where a user intentionally tries to flee staff when they are going to be moderated.</sup>
+*   Failing to utilize a microphone
+
+    <sup>An act where a user refuses to use their microphone to communicate with others.</sup>
+*   Disregarding Past Moderation
+
+    <sup>An act where a user completely disregards any prior moderation that was issued to them.</sup>
+*   Staff Impersonation
+
+    <sup>An act where someone claims to be staff but in reality, they are not.</sup>
+*   Interfering with a Mod Scene
+
+    <sup>An act where a user disrupts an active mod scene.</sup>
+*   Joining The Server During An SSD
+
+    <sup>An act where a user joins our server when the server is shutdown.</sup>
 
 ## Bans
 
-* NSFW
-* Breaking Roblox ToS
-* Breaking PRC ToS
-* LTAP
-* Mass VDM
-* Mass RDM
-* Banned Roleplay
-* No Intent to Roleplay
-* Gang Roleplay
-* Reaching 10 Points
-* Exploiting
-* Suicide Roleplay
+*   NSFW
+
+    <sup>Stands for Not Safe for Work which violates</sup> [<sup>_Roblox Community Standards_</sup>](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards)
+*   Breaking Roblox ToS
+
+    <sup>Breaking</sup> [<sup>_Roblox Community Standards_</sup>](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards)
+*   Breaking PRC ToS
+
+    <sup>Breaking PRC Terms of Service</sup>
+*   LTAP
+
+    <sup>Stands for Leaving to Avoid Punishment which occurs when someone leaves to avoid moderation.</sup>
+*   Mass VDM
+
+    <sup>Three consecutive counts of Vehicle Deathmatch towards another player.</sup>
+*   Mass RDM (More than 3 player)
+
+    <sup>Three consecutive counts of Random Deathmatch towards another player.</sup>
+*   Banned Roleplay
+
+    <sup>Any form of roleplay that violates</sup> [<sup>_Roblox Community Standards_</sup>](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards)
+*   No Intent to Roleplay
+
+    <sup>When a player show clear no intention of roleplaying on our server such as trolling.</sup>
+*   Gang Roleplay
+
+    <sup>And act where more than four players commit crimes together regardless if they are in the same vehicle or not.</sup>
+*   Reaching 10 Points
+
+    <sup>When a player reaches 10 moderation points through Melonly.</sup>
+*   Exploiting
+
+    <sup>Abusing Roblox's Systems such as (Emotes, Marketplace Items, UGC Items, Modifying Client Files) to create an unfair advantage.</sup>
+*   Suicide Roleplay
+
+    <sup>Roleplaying the act of self-harm.</sup>
 * Active Ban BOLO
 
 <details>

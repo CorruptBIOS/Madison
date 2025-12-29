@@ -8,6 +8,14 @@ Below are the commands you have access to whilst moderating in-game. Each comman
 
 ## Core Commands
 
+{% hint style="info" %}
+Custom server messages and hints are permitted to be used by Administrator+. To request permission, post the message you wish to post in the following format:
+
+`:m [NOTICE] (Custom message)`
+
+Once permission is granted you may use the command. If you wish to post another custom message later, you must request permission again even if it is the same command.
+{% endhint %}
+
 *   `:to [PLAYER]` — 👤 Moderator+
 
     <sup>This command is used to bring yourself to the target player.</sup>
@@ -62,23 +70,34 @@ Below are the commands you have access to whilst moderating in-game. Each comman
 
 ## Utility / Misc
 
-* `:refresh [PLAYER]` — 👤 Moderator+
-* `:tocar` — 👤 Moderator+
-* `:stopfire` — 👤 Moderator+
-* `:startfire [House/Brush/Building]` — 👤 Moderator+
-* `:logs` — 👤 Moderator+
-* `:mod` — 👤 Internal Affairs+
-* `:unban` — 👤 Internal Affairs+
-* `:kill [PLAYER]` — 👤 Management+
-
-{% hint style="info" %}
-Custom server messages and hints are permitted to be used by Administrator+. To request permission, post the message you wish to post in the following format:
-
-`:m [NOTICE] (Custom message)`
-
-Once permission is granted you may use the command. If you wish to post another custom message later, you must request permission again even if it is the same command.
-{% endhint %}
-
 {% hint style="info" %}
 Staff members may be given permission to use certain commands if granted by Internal Affairs (IA). Examples: an admin may be given `:mod` so they can mod their RA, or `:unban` to complete requests.
 {% endhint %}
+
+*   `:refresh [PLAYER]` — 👤 Moderator+
+
+    <sup>To be used upon request by the target player.</sup>
+*   `:tocar` — 👤 Moderator+
+
+    <sup>This command will bring you back to your vehicle that you have spawned in.</sup>
+*   `:stopfire` — 👤 Moderator+
+
+    <sup>Used to stop an active (House, Brush, or Building) fire. This command will not stop a dumpster fire.</sup>
+*   `:stopdumpsterfire` — 👤 Moderator+
+
+    <sup>Used to stop any active dumpster fire(s).</sup>
+*   `:startfire [House/Brush/Building]` — 👤 Moderator+
+
+    <sup>Used to start structure fires, or brush fires.</sup>
+*   `:logs` — 👤 Moderator+
+
+    <sup>Used to view any commands that any staff members have executed.</sup>
+*   `:mod` — 👤 Internal Affairs+
+
+    <sup>To be used by Internal Affairs only and may only be used on someone who passed their first ride along.</sup>
+*   `:unban` — 👤 Internal Affairs+
+
+    <sup>This command is to be used by Internal Affairs only.</sup>
+*   `:kill [PLAYER]` — 👤 Management+
+
+    <sup>This command is to be used by Management only.</sup>
