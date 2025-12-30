@@ -9,8 +9,8 @@ icon: user
 The Director Team consists of three ranks:
 
 * Director — marcus09lover (Operations Director)
-* Deputy Director — iiExtractLaw (Department Coordinator)
-* Assistant Director — MCCY00 & Dewsrath (Staff Management)
+* Deputy Director — lewfal (Department Coordinator)
+* Assistant Director — none (Staff Management)
 
 This team is responsible for the oversight of all aspects of MSRP. Avoid directly pinging or DMing these individuals unless they are needed.
 
