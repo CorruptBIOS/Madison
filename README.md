@@ -20,6 +20,12 @@ metaLinks: {}
 
 # Home
 
+{% hint style="warning" %}
+### Madison State Roleplay - Internal Use Only!
+
+If you have stumbled across this website and you are not a part of our staff team, close out this tab immediately.
+{% endhint %}
+
 ### Welcome
 
 Hello and Welcome to the Madison State Staff Team. This hub will contain all the information you will need as a staff member, including topics such as commands, chain of command, and more. This should always be your first point of contact before asking another staff member. Our staff members (especially senior staff) are expected to know this handbook like the back of their hand, so please ensure you take the time to do so.

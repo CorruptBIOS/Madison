@@ -46,11 +46,19 @@ Once approval has been granted from an Internal Affairs member or above to condu
 
 Host should run the following in sequence. All Staff should make their way to the STS VC.
 
-* Announce:\
-  :m We will be conducting an STS shortly, start to finish off Roleplays.
+* Announce the following:
+
+```
+:m We will be conducting an STS shortly, start to finish off Roleplays.
+```
+
 * Wait 30 seconds
-* Announce:\
-  :m You will now all be teleported. Make sure to have no weapons equipped.
+* Announce the following:
+
+```
+:m You will now all be teleported. Make sure to have no weapons equipped.
+```
+
 * Wait 5 seconds
 {% endstep %}
 
