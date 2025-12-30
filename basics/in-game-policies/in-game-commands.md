@@ -116,6 +116,6 @@ Staff members may be given permission to use certain commands if granted by Inte
 *   `:unban` — 👤 Internal Affairs+
 
     <sup>This command is to be used by Internal Affairs only.</sup>
-*   `:kill [PLAYER]` — 👤 Management+
+*   `:kill [PLAYER]` — 👤 Directorship+
 
-    <sup>This command is to be used by Management only.</sup>
+    <sup>This command is to be used by Directorship only.</sup>
