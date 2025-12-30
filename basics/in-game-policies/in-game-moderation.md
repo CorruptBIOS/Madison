@@ -73,7 +73,7 @@ Verbal warnings are issued based on discretion; however verbal warnings are not 
 
 <details>
 
-<summary>Ban BOLO (Be On the Lookout)</summary>
+<summary>Ban BOLO (Be on the Lookout)</summary>
 
 * Moderators can issue a Ban BOLO for users who need to be banned but cannot issue the ban themselves.
 * Administrators should complete Ban BOLOs at their earliest convenience.
@@ -94,4 +94,4 @@ If a person has been banned before, only count moderation points gained after th
 
 ## Related
 
-* [Punishment Guide](https://sites.google.com/view/madison-staff-hub/guides/in-game-guides/in-game-punishments)
+* [Punishment Guide](in-game-punishments.md)

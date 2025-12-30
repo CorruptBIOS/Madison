@@ -8,6 +8,10 @@ Below are a range of common moderation issues and their respective punishments. 
 
 ## Warnings
 
+{% hint style="info" %}
+Important: If a player is going to have issued their third warning for Low Quality Roleplay, it will now become a ban for NITRP.
+{% endhint %}
+
 *   Not Following Jurisdictions
 
     <sup>This means that an LEO unit goes out of their jurisdiction and refuses to go back their own jurisdiction.</sup>
