@@ -9,7 +9,7 @@ Below are a range of common moderation issues and their respective punishments. 
 ## Warnings
 
 {% hint style="info" %}
-Important: If a player is going to have issued their third warning for Low Quality Roleplay, it will now become a ban for NITRP.
+If a player is going to have issued their third warning for Low Quality Roleplay, it will now become a ban for NITRP.
 {% endhint %}
 
 *   Not Following Jurisdictions
@@ -35,7 +35,7 @@ Important: If a player is going to have issued their third warning for Low Quali
     <sub>The act of a player wearing unrealistic avatar characteristics this ranges from (skin tone, body parts, and player accessories).</sub>
 *   Unrealistic Driving
 
-    <sup>Driving eradically for no apparent reason, this goes for driving on the opposite side of the road, serving and overall being reckless for no reason. The only exception is when a player is in a pursuit.</sup>
+    <sup>Driving erratically for no apparent reason, this goes for driving on the opposite side of the road, serving and overall being reckless for no reason. The only exception is when a player is in a pursuit.</sup>
 *   Not Using Team Uniforms
 
     <sup>The act of not equipping any department issued uniforms, this also applies if someone is wearing the default PD, Sheriff, and FD uniforms.</sup>
@@ -47,7 +47,7 @@ Important: If a player is going to have issued their third warning for Low Quali
     <sup>The act of intentionally trying to get law enforcement's attention by blatantly breaking laws in front of them in an attempt to get into a chase with them.</sup>
 *   Un-Official Departments
 
-    <sup>This means players may not roleplay as any federal agencies, state agencies, and so on. This means nobody can roleplay as any entity which is not apart of Madison State Roleplay.</sup>
+    <sup>This means players may not roleplay as any federal agencies, state agencies, and so on. This means nobody can roleplay as any entity which is not a part of Madison State Roleplay.</sup>
 *   Low Quality Roleplay
 
     <sup>The act when a player engages in roleplays which are unrealistic such as: (Not roleplaying crashes, equipping a rifle without giving any indication that you have a rifle, etc.)</sup>
@@ -134,10 +134,10 @@ Important: If a player is going to have issued their third warning for Low Quali
     <sup>Any form of roleplay that violates</sup> [<sup>_Roblox Community Standards_</sup>](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards)
 *   No Intent to Roleplay
 
-    <sup>When a player show clear no intention of roleplaying on our server such as trolling.</sup>
+    <sup>When a player show clear no intention of roleplaying on our server such as trolling. NITRP is also for player who conduct low quality roleplays for the third time.</sup>
 *   Gang Roleplay
 
-    <sup>And act where more than four players commit crimes together regardless if they are in the same vehicle or not.</sup>
+    <sup>And act where more than four players commit crimes together regardless of if they are in the same vehicle or not.</sup>
 *   Reaching 10 Points
 
     <sup>When a player reaches 10 moderation points through Melonly.</sup>

@@ -52,7 +52,7 @@ Enter the DMV and put "Madison State Staff" in your roleplay username.
 {% step %}
 ### Join the sheriff team
 
-Select and join the sheriff team as required for Main Staff Duties.
+Select and join the sheriff team with the callsign \[MSS-XX] as required for Main Staff Duties.
 {% endstep %}
 
 {% step %}
