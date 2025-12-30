@@ -68,13 +68,23 @@ Run these commands in order:
 
 Then announce:
 
-:m Join STS VC and stand on the white line, communications code: nFNSQwWX2J
-
+```
+:m Join STS VC and stand on the white line, communications code: MadiRP
 :m Do not equip items, talk with in-game chat or via Roblox VC. Do not move/emote. Doing so will result in an immediate kick.
+```
 {% endstep %}
 
 {% step %}
 ### Formation, checks and tasks
+
+{% hint style="info" %}
+Enforcement guidance:
+
+* A tiny movement or accidentally equipping an item (unless it's a gun) should not result in a kick. Only major or repeated movements/disruptions should be kicked.
+* Anyone talking via Roblox VC, in-game chat, or phone messaging should be kicked immediately.
+* Anyone attempting to leave the STS should be kicked.
+* Anyone who brings a vehicle into the area where you are lined up should be kicked.
+{% endhint %}
 
 * Now get in formation as seen below: (to be done)
 * Visit [here - to be done](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FFEAkFpUPjEnShMPYf91T%2Fuploads%2F2dNJvKc2Rky1HPFjKvv4%2FSTS%20audio.m4a?alt=media\&token=38329b26-daac-4c68-9517-459e16d8e4c4) to download the file, then do m!play (attach file).
@@ -89,15 +99,6 @@ Then announce:
 ```
 {% endstep %}
 {% endstepper %}
-
-{% hint style="info" %}
-Enforcement guidance:
-
-* A tiny movement or accidentally equipping an item (unless it's a gun) should not result in a kick. Only major or repeated movements/disruptions should be kicked.
-* Anyone talking via Roblox VC, in-game chat, or phone messaging should be kicked immediately.
-* Anyone attempting to leave the STS should be kicked.
-* Anyone who brings a vehicle into the area where you are lined up should be kicked.
-{% endhint %}
 
 ## Notes
 

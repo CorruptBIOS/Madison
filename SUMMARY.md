@@ -15,6 +15,7 @@
   * [In-Game Punishments](basics/in-game-policies/in-game-punishments.md)
   * [SSU & SSD Guide](basics/in-game-policies/ssu-and-ssd-guide.md)
   * [STS Guide](basics/in-game-policies/sts-guide.md)
+  * [Priority Scene Guide](basics/in-game-policies/priority-scene-guide.md)
 * [Misc Guides](basics/misc-guides/README.md)
   * [Rank Guide](basics/misc-guides/rank-guide.md)
   * [Professionalism Guide](basics/misc-guides/professionalism-guide.md)
