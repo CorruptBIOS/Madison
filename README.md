@@ -32,6 +32,8 @@ Hello and Welcome to the Madison State Staff Team. This hub will contain all the
 
 The Staff Hub is a website divided into clear sections for each topic, making it easy to find exactly what you need. It’s your responsibility to regularly check and stay up to date with any changes made to the hub. Our general advice would be to bookmark it so you can easily access it in the future.
 
+<figure><img src=".gitbook/assets/Staff Hub (1).png" alt=""><figcaption></figcaption></figure>
+
 <br>
 
 ### Jump right in
