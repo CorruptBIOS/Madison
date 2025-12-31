@@ -55,6 +55,10 @@ Failure to comply may result in consequences from the Internal Affairs Team.
 {% step %}
 ### On-Duty Policies
 
+{% hint style="info" %}
+If you need to go AFK for more than 10 minutes, ensure that you have at least 5 minutes prior then you must clock off.
+{% endhint %}
+
 * When On-Duty in-game, follow required procedures:
   * Be in RTO listening for priorities.
   * If you go AFK, it must be no more than 10 minutes, and you must notify peers in staff chat; otherwise leave the server and end your shift.
