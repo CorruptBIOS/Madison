@@ -13,7 +13,7 @@
 * [In-Game Guides](basics/in-game-policies/README.md)
   * [In-Game Moderation](basics/in-game-policies/in-game-moderation.md)
   * [In-Game Commands](basics/in-game-policies/in-game-commands.md)
-  * [Approved Messages](basics/in-game-policies/in-game-commands-1.md)
+  * [Pre-Approved Messages](basics/in-game-policies/in-game-commands-1.md)
   * [In-Game Punishments](basics/in-game-policies/in-game-punishments.md)
   * [SSU & SSD Guide](basics/in-game-policies/ssu-and-ssd-guide.md)
   * [STS Guide](basics/in-game-policies/sts-guide.md)

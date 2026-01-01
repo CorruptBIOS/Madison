@@ -16,19 +16,51 @@ layout:
     visible: true
 ---
 
-# Approved Messages
+# Pre-Approved Messages
 
-TBA
-
-## TBA
+Below are the authorized messages that all staff can use. Please note priority and peace timers should only be placed for either: 600, 900 or 1200 seconds.
 
 {% hint style="info" %}
-TBA
+If a message is not listed here, you will need permission from an administrator to post it.
 {% endhint %}
 
-*
+## Priority Messages
 
-## TBA
+Priority Message:
 
+```
+:m [NOTICE] A priority timer has been put into effect; whilst the timer is in effect, you are not permitted to start any other major roleplays such as shootouts, pursuits, robberies, etc.
+```
 
+Priority Cooldown:
+
+```
+:m [NOTICE] A priority cooldown timer has been activated. While timer is activated, do not take part in any major roleplays such as shootouts, pursuits, robberies, etc.
+```
+
+Peacetimer Message:
+
+```
+:m [NOTICE] A peacetime timer has been activated. While peacetime is activated, do not take part in any major roleplays such as shootouts, pursuits, robberies, etc.
+```
+
+## Roleplay Quality Messages
+
+Low-Quality Roleplay:
+
+```
+:m [NOTICE] Players participating in low-quality roleplay, such as repetitive pursuits, will be strongly moderated. Please focus on realistic, day-to-day roleplay scenarios.
+```
+
+Realistic Driving:
+
+```
+:m Please ensure to be driving realistically. Running red lights, stop signs, and speeding for no reason will result in moderation.
+```
+
+Team Balance:
+
+```
+:m Can we please ensure the teams are balanced; This is in order to make the roleplay more even.
+```
 
