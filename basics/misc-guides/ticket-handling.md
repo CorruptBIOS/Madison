@@ -2,7 +2,7 @@
 icon: ticket
 ---
 
-# Tickets Guide
+# Ticket Handling
 
 Here at Madison State Roleplay, we offer a ticketing system which contains a variety of categories:
 
@@ -18,7 +18,7 @@ The Community Support category is managed by Discord Moderators and is only give
 {% step %}
 ### Begin with an introduction
 
-Introduce yourself by giving your Roblox username or rank. To make things quicker, you can use the `!intro` command which provides an introduction.
+Introduce yourself by giving your Roblox username or rank. To make things quicker, you can use the `!hi` command which provides an introduction.
 {% endstep %}
 
 {% step %}

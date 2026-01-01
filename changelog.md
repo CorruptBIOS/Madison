@@ -29,6 +29,7 @@ We've implemented the following changed to the staff hub to keep it up-to-date a
 * Refined information regarding the shutdown command.
 * Added a quicker way to view pre-approved messages.
 * Added navigation information to the home page.
+* Replaced `!intro` to `!hi` inside [Ticket Handling](basics/misc-guides/ticket-handling.md)
 {% endupdate %}
 {% endupdates %}
 
