@@ -21,7 +21,7 @@ metaLinks: {}
 # Home
 
 {% hint style="warning" %}
-### Confidentiality & Authorized Use Notice:
+### Authorized Use Only:
 
 This website is a private internal staff portal operated by Madison State Roleplay. All content, communications, and materials available through this site are confidential and intended solely for authorized Madison State Roleplay personnel.
 
