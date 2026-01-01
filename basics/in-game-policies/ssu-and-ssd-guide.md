@@ -118,13 +118,15 @@ Wait around 30 seconds after this announcement.
 {% step %}
 ### Kick all players
 
-{% hint style="success" %}
-Server administrators are permitted to use the shutdown command to remove all players from the server.
-{% endhint %}
-
 Run the kick command to remove all players before shutdown:
 
-{% code title="In-game command" %}
+{% code title="In-game command (Administrator+)" %}
+```
+:shutdown
+```
+{% endcode %}
+
+{% code title="In-game command (Moderators)" %}
 ```
 :kick all Server Shutting down.
 ```
