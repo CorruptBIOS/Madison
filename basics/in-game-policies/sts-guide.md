@@ -76,10 +76,12 @@ Run these commands in order:
 
 Then announce:
 
+{% code overflow="wrap" %}
 ```
 :m Join STS VC and stand on the white line, communications code: MadiRP
 :m Do not equip items, talk with in-game chat or via Roblox VC. Do not move/emote. Doing so will result in an immediate kick.
 ```
+{% endcode %}
 {% endstep %}
 
 {% step %}

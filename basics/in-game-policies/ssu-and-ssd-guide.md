@@ -92,7 +92,7 @@ Please use the exact in-game commands shown above when making announcements or s
 
 Post the following announcement to warn players the server is closing soon:
 
-{% code title="In-game command (:m) - First announcement" %}
+{% code title="In-game command (:m) - First announcement" overflow="wrap" %}
 ```
 :m The server will be shutting down shortly. Please start finishing up your roleplays and prepare to leave the server within the next 3 minutes.
 ```
@@ -106,7 +106,7 @@ Wait around 2–3 minutes after this announcement.
 
 Post a thank-you/closing message:
 
-{% code title="In-game command (:m) - Second announcement" %}
+{% code title="In-game command (:m) - Second announcement" overflow="wrap" %}
 ```
 :m Thank you for joining this SSU, we appreciate your participation hope you see you again soon. Wishing you a good day or evening!
 ```
