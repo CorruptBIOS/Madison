@@ -23,9 +23,9 @@ layout:
 {% step %}
 ### Introduction
 
-Whilst representing Madison State Roleplay, you are expected to uphold and follow a high standard of professionalism and integrity. Staff should be honest and truthful when carrying out their duties. Respect, dedication, fairness, accountability, teamwork, and clear communication are required to ensure the Staff Team runs efficiently.
+When you're part of Madison State Roleplay, we expect you to maintain a high level of professionalism and integrity. That means being honest and truthful in everything you do as staff. We need everyone to show respect, stay dedicated, be fair, take accountability, work as a team, and communicate clearly. These values help our staff team run smoothly and effectively.
 
-If you break any of these expectations you may be subject to consequences from the Internal Affairs (IA) Team.
+If you break any of these expectations, the Internal Affairs team may need to step in with appropriate consequences.
 {% endstep %}
 
 {% step %}

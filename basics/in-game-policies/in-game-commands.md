@@ -18,7 +18,9 @@ layout:
 
 # In-Game Commands
 
-Below are the commands you have access to whilst moderating in-game. Each command includes the permission tag that indicates who can use it.
+Here's a quick guide to the commands you can use while moderating in the game. Each one shows what staff rank you need to have access to it.
+
+Think of it like a toolbox - different tools are available depending on your role. The permission tag next to each command tells you exactly what level you need to be at to use it.
 
 ## Core Commands
 
@@ -31,7 +33,7 @@ Once permission is granted you may use the command. If you wish to post another 
 {% endhint %}
 
 {% hint style="danger" %}
-Anyone seen abusing any of the listed commands below will follow immediate disciplinary action which may lead up to staff termination.
+Any misuse or abuse of the commands listed below will result in immediate disciplinary action, up to and including removal from the staff team.
 {% endhint %}
 
 *   `:to [PLAYER]` — 👤 Moderator+

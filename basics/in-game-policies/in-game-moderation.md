@@ -18,7 +18,7 @@ layout:
 
 # In-Game Moderation
 
-This page describes three common forms of punishment: Warning, Kick, and Ban. It explains behaviors that may result in each punishment, and what they mean in different contexts. From minor offenses to major violations, this provides an overview of punishment levels and the reasons behind them.
+This pages goes over how to handle rule violations. We have three main types of consequences: warnings, kicks, and bans. Each one addresses different levels of problems, from small mistakes to serious issues. A warning is for minor slip-ups that need correction. A kick temporarily removes someone who's causing trouble. A ban is for major violations that require permanent removal. This guide explains what behaviors lead to each consequence and what they mean in practice.
 
 {% hint style="info" %}
 Every punishment must be logged. Provide full detail in your logs — do not use shorthand like "FRP" without explaining what happened (for example: "FRP - Swimming underwater for over 4 minutes."). Detailed logs help track why people are moderated and aid Internal Affairs when reviewing staff reports.

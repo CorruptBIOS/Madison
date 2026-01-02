@@ -18,7 +18,7 @@ icon: clipboard-list-check
 
 ## Getting Approval
 
-To prevent STSs running constantly throughout the SSU there is a procedure to request and obtain approval. To get an STS approved you must ping an Administrative Member asking them for permission. Failure to obtain approval and conducting the STS will result in consequences.
+To prevent STSs from being conducted excessively during an SSU, all STSs must be formally requested and approved in advance. To obtain approval, you must ping an Administrative Member and request permission before initiating the STS. Conducting an STS without prior approval will result in disciplinary action.
 
 Before requesting permission to host an STS, check for the following:
 

@@ -19,7 +19,7 @@ layout:
 
 # General Policies
 
-Whilst representing Madison State Roleplay, we expect you to uphold and follow a high standard of professionalism and integrity. We expect our staff to be honest and truthful when carrying out their duties as a Staff Member. Respect is a must; you should be showing respect towards your peers and others within the Community. Dedication is needed — this ensures that our Staff Team is running efficiently as it can be. When carrying out your Moderation duties we expect you to be fair and just when giving out punishments. Taking accountability for your actions is key to success; if you have done something wrong then it is better to be honest and upfront with the Team. We expect all of our Staff to have a sense of teamwork and communication ethics to ensure that the team can run as efficiently as possible.
+When you're part of Madison State Roleplay's staff team, we want you to bring your best self to the role. That means being professional, honest, and respectful in everything you do. Treat your fellow staff members and everyone in our community with kindness and consideration. We need you to be dedicated too - this helps our team run smoothly and effectively. When you're handling moderation duties, always be fair and consistent with any decisions you make. If you make a mistake, own up to it. Being honest with the team is much better than trying to cover things up. Finally, remember that we're all in this together. Good teamwork and clear communication make our staff team stronger and more effective for everyone.
 
 {% stepper %}
 {% step %}

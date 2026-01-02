@@ -32,15 +32,19 @@ If you are not an authorized user, you must immediately leave this website and r
 
 ### Welcome
 
-Hello and Welcome to the Madison State Staff Team. This hub will contain all the information you will need as a staff member, including topics such as commands, chain of command, and more. This should always be your first point of contact before asking another staff member. Our staff members (especially senior staff) are expected to know this handbook like the back of their hand, so please ensure you take the time to do so.
+Welcome to the Madison State staff team! This Staff Hub is your go-to spot for everything you need to know about your role. Think of it as your main resource for operational commands, who to report to, our policies, and any other guidance you might need.
 
-The Staff Hub is a website divided into clear sections for each topic, making it easy to find exactly what you need. It’s your responsibility to regularly check and stay up to date with any changes made to the hub. Our general advice would be to bookmark it so you can easily access it in the future.
+Here's the important part: this should always be your first stop before asking another staff member for help. We expect all our team members, especially senior staff, to know this handbook inside and out. So please take some time to really go through it. Use it as your main reference before reaching out to someone else.
+
+The Staff Hub is organized into clear sections to help you find what you need quickly. It's your responsibility to stay up to date, so make sure to check back regularly for any updates or changes.
+
+One quick tip: bookmark this site so you can easily come back to it whenever you need to. That way, you'll always have the information you need right at your fingertips.
 
 <figure><img src=".gitbook/assets/Staff Hub (1).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;Navigation
 
-Using the sidebar located on the left-hand side of the website you can access various information ranging from policies, to guides, to what punishments fit best. If you are looking for something specific, you may use the search bar located on the upper right corner of the website.
+You'll find a sidebar on the left side of the site that contains links to all sorts of helpful resources. These include policies, guides, and discipline references. If you're trying to find something specific, just look to the upper-right corner. There's a search bar there that makes it easy to locate exactly what you need.
 
 ### Quick Start Guide
 

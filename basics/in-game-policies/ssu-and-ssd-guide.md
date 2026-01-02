@@ -132,6 +132,6 @@ Run the kick command to remove all players before shutdown:
 ```
 {% endcode %}
 
-After kicking everyone, announce in Staff Chat that the SSD is complete. Melonly automatically clocks staff off when the server shuts down.
+After all players have been removed from the server, post a message in Staff Chat indicating that the SSD has been completed. Melonly will automatically clock staff members off once the server has fully shut down.
 {% endstep %}
 {% endstepper %}

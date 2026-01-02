@@ -4,12 +4,12 @@ icon: crown
 
 # In-Game Punishments
 
-Below are a range of common moderation issues and their respective punishments. If there isn't a punishment listed for an action here, feel free to use discretion.
+Here's a list of common moderation issues and what happens when they occur. If you come across something that's not specifically mentioned here, don't worry. Just use your best judgment and make a fair decision based on the situation.
 
 ## Warnings
 
 {% hint style="info" %}
-If a player is going to have issued their third warning for Low Quality Roleplay, it will now become a ban for NITRP.
+If a player receives a third warning for Low Quality Roleplay, the violation will be escalated to a ban for No Intent to Roleplay (NITRP).
 {% endhint %}
 
 *   Not Following Jurisdictions
