@@ -60,7 +60,7 @@ If a message is not listed here, you will need permission from an administrator 
 
 {% code title="Team Balance:" overflow="wrap" %}
 ```
-:m Can we please ensure the teams are balanced; This is in order to make the roleplay more even.
+:m [NOTICE] Please ensure that the teams are balanced; This allows roleplays to be more elaborate and fair for everybody.
 ```
 {% endcode %}
 
