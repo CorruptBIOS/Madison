@@ -56,7 +56,7 @@ Failure to comply may result in consequences from the Internal Affairs Team.
 ### On-Duty Policies
 
 {% hint style="info" %}
-If you need to go AFK for more than 10 minutes, ensure that you have at least 5 minutes prior then you must clock off.
+If you need to go AFK for more than 10 minutes, ensure that you have made a notice at least 5 minutes prior then you must clock off.
 {% endhint %}
 
 * When On-Duty in-game, follow required procedures:

@@ -108,7 +108,7 @@ Post a thank-you/closing message:
 
 {% code title="In-game command (:m) - Second announcement" overflow="wrap" %}
 ```
-:m Thank you for joining this SSU, we appreciate your participation hope you see you again soon. Wishing you a good day or evening!
+:m Thank you for joining this SSU, we appreciate your participation and hope to see you again soon. Wishing you a good day or evening!
 ```
 {% endcode %}
 

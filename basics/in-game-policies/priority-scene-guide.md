@@ -6,7 +6,7 @@ icon: clipboard-list-check
 
 ## Priority Form
 
-To prevent numerous priority scenes such as bank robberies from occurring, we have implemented a form for players to fill out who want to start a priority scene. You are to provide the player with the form link below.
+To prevent numerous priority scenes such as bank robberies from occurring, we have implemented a form for players to fill out who want to start a priority scene. You are to provide the player with the form link [here](https://melonly.xyz/forms/priority/7370393854744203264).
 
 {% hint style="warning" %}
 Important:
@@ -53,8 +53,6 @@ Once the scene is ready you may then alert law enforcement about the on-going sc
 ```
 :m [NOTICE] A priority timer has been put into effect; whilst the timer is in effect, you are not permitted to start any other major roleplays such as shootouts, pursuits, robberies, etc.
 ```
-
-
 {% endstep %}
 
 {% step %}
@@ -63,7 +61,7 @@ Once the scene is ready you may then alert law enforcement about the on-going sc
 {% hint style="warning" %}
 Important:
 
-* If the scene beings to or is immediately obvious to be unrealistic, you may call off the priority scene.
+* If the scene beings to or is immediately obvious to be unrealistic, you may call off the priority scene at any time.
 {% endhint %}
 
 Once law enforcement arrives, it is your job to ensure that the scene goes out uninterrupted. If someone who is not on law enforcement and has no permission of being on the scene, you would tell them to leave. If the player refuses or does nothing within 10 seconds you can load them.

@@ -20,49 +20,49 @@ If a player receives a third warning for Low Quality Roleplay, the violation wil
     <sup>This means that a user was using gear from a team which is either restricted to ranked members of a certain department. This ranges from (Vehicle accessories, equipment, vehicles).</sup>
 *   Combat Logging
 
-    <sup>The act of someone leaving in the middle of a gun fight.</sup>
+    <sup>Leaving the game during an active gunfight to avoid the outcome of the encounte</sup>r.
 *   Breaking NLR
 
-    <sup>The act of someone intentionally driving back to a scene and engaging with other players, and or still making communication towards another player that they knew prior to their death, or arrest.</sup>
+    <sup>Intentionally returning to a scene to re‑engage with other players or continuing to communicate with a player they interacted with prior to their death or arrest.</sup>
 *   Roleplay Without Permission
 
-    <sup>The act of someone robbing the bank, or jewelry store. This also applies to kidnapping, and hostage scenes.</sup>
+    <sup>Robbing the bank or jewelry store without prior approval. This rule also applies to kidnapping scenarios and hostage situations, all of which require staff authorization before being initiated.</sup>
 *   Breaking Safezones
 
-    <sup>The act of someone committing a crime such as killing another player within an area where crime is not allowed. (ex. Civilian spawn)</sup>
+    <sup>When a player commits a crime such as killing another player within an area where criminal activity is prohibited. This includes locations like the Civilian Spawn and other designated safezones.</sup>
 *   Unrealistic Avatar
 
-    <sub>The act of a player wearing unrealistic avatar characteristics this ranges from (skin tone, body parts, and player accessories).</sub>
+    <sup>Avatar customization that includes unrealistic elements such as unnatural skin colors, modified body proportions, or unsuitable accessories are not permitted.</sup>
 *   Unrealistic Driving
 
     <sup>Driving erratically for no apparent reason, this goes for driving on the opposite side of the road, serving and overall being reckless for no reason. The only exception is when a player is in a pursuit.</sup>
 *   Not Using Team Uniforms
 
-    <sup>The act of not equipping any department issued uniforms, this also applies if someone is wearing the default PD, Sheriff, and FD uniforms.</sup>
+    <sup>Failure to equip the required department‑issued uniform. This also applies when a player is wearing the default Police, Sheriff, or Fire Department uniforms instead of their assigned attire</sup>
 *   Disturbing Roleplays
 
     <sup>Interacting an active scene without permission when not involved to begin with.</sup>
 *   Cop Baiting
 
-    <sup>The act of intentionally trying to get law enforcement's attention by blatantly breaking laws in front of them in an attempt to get into a chase with them.</sup>
+    <sup>Intentionally attempting to draw law enforcement’s attention by blatantly breaking laws in front of them in an effort to provoke a pursuit.</sup>
 *   Un-Official Departments
 
     <sup>This means players may not roleplay as any federal agencies, state agencies, and so on. This means nobody can roleplay as any entity which is not a part of Madison State Roleplay.</sup>
 *   Low Quality Roleplay
 
-    <sup>The act when a player engages in roleplays which are unrealistic such as: (Not roleplaying crashes, equipping a rifle without giving any indication that you have a rifle, etc.)</sup>
+    <sup>When a player engages in unrealistic roleplay scenarios, such as failing to roleplay vehicle crashes, equipping a rifle without providing any form of indication, or similar behavior that breaks immersion.</sup>
 *   LEO Impersonation
 
-    <sup>When someone pretends to be law enforcement. It is still impersonation if they are wearing law enforcement attire.</sup>
+    <sup>When a player pretends to be law enforcement. This violation still applies when the player is wearing law enforcement attire, regardless of whether they claim to be an officer.</sup>
 *   Breaking Priority
 
     <sup>This occurs when a player commits a crime during priority, this ranges from (evading police, robberies, shootings, etc.) The only exception is if the scene happened before the priority timer was issued or if the priority timer is put out for that specific scene.</sup>
 *   Animal Roleplay
 
-    <sup>The act of someone roleplaying as an animal such as a dog. If it is a costume, it must show skin within the costume such as either having either their hands showing, or face showing.</sup>
+    <sup>When a player roleplays as an animal, such as a dog. If the player is using an animal costume, visible human skin must be shown within the costume—such as their hands or face—to ensure the avatar remains compliant with server standards.</sup>
 *   Med/Tow Rushing
 
-    <sup>The act of either healing someone with a medical bag or towing someone's vehicle without roleplaying their actions.</sup>
+    <sup>Healing a player with a medical bag or towing a vehicle without properly roleplaying the required actions.</sup>
 *   Failure to utilize roleplays VC's
 
     <sub>Applies to law enforcement, fire department, and DOT. This means that players who are supposed to be in their RTO or radio VC are not present.</sub>
@@ -80,7 +80,7 @@ If a player receives a third warning for Low Quality Roleplay, the violation wil
     <sup>Where someone obtains two warnings within a single server startup.</sup>
 *   Failing to join the Discord
 
-    <sup>An act which someone refuses or does not join our Discord server in general.</sup>
+    <sup>When a player refuses or otherwise does not join our Discord server.</sup>
 *   Unable to access the Discord / Roleplay VC's (Log as a Note)
 
     <sup>This occurs if the user is banned from our Discord server.</sup>
@@ -89,25 +89,25 @@ If a player receives a third warning for Low Quality Roleplay, the violation wil
     <sup>Where someone intentionally talks, uses Roblox VC, emotes, equips an item, or uses their phone in-game.</sup>
 *   Refusal to join VC
 
-    <sup>An act where someone refuses to join one of our Discord voice channels.</sup>
+    <sup>When a player refuses to join one of the required Discord voice channels.</sup>
 *   Staff Evasion
 
-    <sup>An act where a user intentionally tries to flee staff when they are going to be moderated.</sup>
+    <sup>When a user intentionally attempts to flee from staff to avoid being moderated.</sup>
 *   Failing to utilize a microphone
 
-    <sup>An act where a user refuses to use their microphone to communicate with others.</sup>
+    <sup>When a user refuses to use their microphone to communicate with others as required.</sup>
 *   Disregarding Past Moderation
 
-    <sup>An act where a user completely disregards any prior moderation that was issued to them.</sup>
+    <sup>Prior moderation actions are ignored or dismissed instead of being followed.</sup>
 *   Staff Impersonation
 
-    <sup>An act where someone claims to be staff but in reality, they are not.</sup>
+    <sup>Any instance in which an individual misrepresents themselves as staff without holding the appropriate role or authorization.</sup>
 *   Interfering with a Mod Scene
 
-    <sup>An act where a user disrupts an active mod scene.</sup>
+    <sup>Unauthorized involvement occurs during an active moderation scene.</sup>
 *   Joining The Server During An SSD
 
-    <sup>An act where a user joins our server when the server is shutdown.</sup>
+    <sup>Accessing the server while it is in a shutdown state.</sup>
 
 ## Bans
 
@@ -137,7 +137,7 @@ If a player receives a third warning for Low Quality Roleplay, the violation wil
     <sup>When a player show clear no intention of roleplaying on our server such as trolling. NITRP is also for player who conduct low quality roleplays for the third time.</sup>
 *   Gang Roleplay
 
-    <sup>And act where more than four players commit crimes together regardless of if they are in the same vehicle or not.</sup>
+    <sup>Any criminal activity carried out by a group exceeding four participants, regardless of whether they are traveling together or operating separately.</sup>
 *   Reaching 10 Points
 
     <sup>When a player reaches 10 moderation points through Melonly.</sup>

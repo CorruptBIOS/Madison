@@ -37,7 +37,7 @@ When you're part of Madison State Roleplay's staff team, we want you to bring yo
 * You may not take part in mass blocks to attempt to isolate and/or harass members of the community.
 
 {% hint style="info" %}
-If you feel you need to discuss any issues or concerns with another member of the Staff team, the IA team are here to help you.
+If you feel you need to discuss any issues or concerns with another member of the Staff team, the Internal Affairs team is here to help you.
 {% endhint %}
 {% endstep %}
 
@@ -70,7 +70,7 @@ Before submitting one, please understand the following:
 
 * LOA’s must end on a Sunday.
 * LOA's must be requested on Sundays, Mondays, Tuesdays or Wednesdays.
-* LOA’s can’t be longer than 2 weeks (if it needs to be longer, speak with a member of Internal Affairs).
+* LOA’s can’t be longer than 2 weeks (if it needs to be longer, then please open an Internal Affairs ticket).
 * Submit the LOA the same week you would like to be excused from evaluations.
 {% endstep %}
 
@@ -87,7 +87,7 @@ Before submitting one, please understand the following:
 ### Nickname Format
 
 * As a staff member, you’re mandated to follow our Nickname format. When you’re on duty you should have your appropriate callsign in front of your name (nothing that shows your rank).
-  * You should not put any sort of custom font within your name; this is not allowed.
+  * You should not put any sort of custom font within your name; this is not allowed and Melonly will not allow you to clock in.
 * When not on-duty you should be following Rule 2 of the Discord Rules at all times, including having a call sign in your name when you’re not in-game or any other roleplay format.
 {% endstep %}
 
@@ -111,12 +111,12 @@ Before submitting one, please understand the following:
 
 * You’re responsible for your own accounts. If any of your accounts become hacked or compromised, the Internal Affairs Team withholds the right to remove you from the Staff Team to ensure the safety of the server and the community.
 * You are not permitted to give access to your account to others that are not a part of the Staff Team. If you’re caught doing so you will be removed.
-  * You’re responsible for your own account; anything that happens on your account you will be held accountable for and consequences will be given to you, even if you weren't on the account.
+  * You’re responsible for your own account; anything that happens on your account you will be held accountable for, and consequences will be given to you, even if you weren't on the account.
 {% endstep %}
 
 {% step %}
 ### Suggestions
 
-* Staff members are expected to use the Staff Suggestions channel instead of the regular Suggestions channel. The regular Suggestions channel is for community members and is not to be used by staff.
+* Staff members are required to use the Staff Suggestions channel instead of the regular Suggestions channel. The regular Suggestions channel is for community members and is not to be used by staff.
 {% endstep %}
 {% endstepper %}

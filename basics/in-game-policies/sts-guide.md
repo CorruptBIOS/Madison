@@ -48,16 +48,20 @@ Host should run the following in sequence. All Staff should make their way to th
 
 * Announce the following:
 
+{% code overflow="wrap" %}
 ```
-:m We will be conducting an STS shortly, start to finish off Roleplays.
+:m [NOTICE]: We will be conducting an STS shortly, start to finish off roleplays as you will be teleported soon.
 ```
+{% endcode %}
 
-* Wait 30 seconds
+* Wait 45 seconds
 * Announce the following:
 
+{% code overflow="wrap" %}
 ```
-:m You will now all be teleported. Make sure to have no weapons equipped.
+:m [NOTICE]: You will now all be teleported shortly. Make sure to have no weapons or items equipped.
 ```
+{% endcode %}
 
 * Wait 5 seconds
 {% endstep %}
@@ -74,12 +78,19 @@ Run these commands in order:
 :bring others
 ```
 
-Then announce:
+Then run these commands:
 
 {% code overflow="wrap" %}
 ```
-:m Join STS VC and stand on the white line, communications code: MadiRP
-:m Do not equip items, talk with in-game chat or via Roblox VC. Do not move/emote. Doing so will result in an immediate kick.
+:m Join STS VC and stand on the white line, refusal will result in a kick. (Communications Code: MadiRP)
+```
+{% endcode %}
+
+Wait 7 seconds then run the following commands:
+
+{% code overflow="wrap" %}
+```
+:m Do not equip any items, talk with in-game chat or via Roblox VC. Do not move/emote. Doing so will result in an immediate kick.
 ```
 {% endcode %}
 {% endstep %}
